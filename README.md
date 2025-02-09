@@ -35,7 +35,7 @@ Llama-Term is an interactive Python tool that leverages the Ollama API running L
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/yourusername/llama-term.git
+   git clone https://github.com/bshandley/llama-term.git
    cd llama-term
    ```
 
